@@ -1,0 +1,2 @@
+# Hamiko
+Yeni başlangıç 
